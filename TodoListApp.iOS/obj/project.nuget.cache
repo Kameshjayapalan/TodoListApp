@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jbZ1MZre00J/pr32YxH5iuBgS4OQ7Uqv+/RV/qvhDmLz989jxLhDHnYuaewwK/J7URW+Ro2XhoikUDb7NbZpZw==",
+  "success": true,
+  "projectFilePath": "/Users/kamesh/Projects/TodoListApp/TodoListApp.iOS/TodoListApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/kamesh/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/kamesh/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/kamesh/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "/Users/kamesh/.nuget/packages/xamarin.forms.inputkit/3.7.2/xamarin.forms.inputkit.3.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

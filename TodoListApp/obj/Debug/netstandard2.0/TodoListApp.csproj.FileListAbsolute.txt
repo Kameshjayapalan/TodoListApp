@@ -1,0 +1,15 @@
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.csproj.AssemblyReference.cache
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.AssemblyInfoInputs.cache
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.AssemblyInfo.cs
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.csproj.CoreCompileInputs.cache
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.dll
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/ref/TodoListApp.dll
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/TodoListApp.pdb
+/Users/kamesh/Projects/TodoListApp/TodoListApp/bin/Debug/netstandard2.0/TodoListApp.deps.json
+/Users/kamesh/Projects/TodoListApp/TodoListApp/bin/Debug/netstandard2.0/TodoListApp.dll
+/Users/kamesh/Projects/TodoListApp/TodoListApp/bin/Debug/netstandard2.0/ref/TodoListApp.dll
+/Users/kamesh/Projects/TodoListApp/TodoListApp/bin/Debug/netstandard2.0/TodoListApp.pdb
+/Users/kamesh/Projects/TodoListApp/TodoListApp/obj/Debug/netstandard2.0/XamlC.stamp

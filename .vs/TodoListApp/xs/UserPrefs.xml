@@ -1,0 +1,50 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{B05BDAC1-AFC4-4E3F-B476-0CFC2330D843}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TodoListApp/MainPage.xaml" Line="17" Column="23" />
+      <File FileName="TodoListApp/MainPage.xaml.cs" />
+      <File FileName="TodoListApp/TodoItem.cs" />
+      <File FileName="TodoListApp/TodoListViewModel.cs" Line="31" Column="10" />
+      <File FileName="TodoListApp/AssemblyInfo.cs" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" />
+      <File FileName="TodoListApp.iOS/Info.plist" />
+      <File FileName="TodoListApp.iOS/Main.cs" />
+      <File FileName="TodoListApp/App.xaml" />
+      <File FileName="TodoListApp.Android/Properties/AndroidManifest.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoListApp" expanded="True" selected="True">
+            <Node name="TodoListApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="TodoListApp.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TodoListApp.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TodoListApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F738ABA3-D947-4C01-B578-0411ACF17132" />
+  <MonoDevelop.Ide.ItemProperties.TodoListApp.Android PreferredExecutionTarget="Android.Pixel_3a_API_32_arm64-v8a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
